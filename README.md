@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitish
 - 👀 I’m interested in MERN Stack and Salesforce Devolopment
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me nitishmani111@gmail.com
 
 <!---
