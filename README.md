@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Frontend Devolopment**
 
-- 🌱 I’m currently learning **MEARN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, javascript, MongoDB, SQL,Salesforce CRM, Java**
+- 💬 Ask me about **HTML, CSS, javascript, MongoDB, SQL, CRM, Node js, Express, Angular, React, Bootstrap, Web Developement Java**
 
 - 📫 How to reach me **nitishmani111@gmail.com**
 
