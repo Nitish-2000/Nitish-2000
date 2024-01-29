@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-2000" alt="nitish-2000" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Devolopment**
+- 🔭 I’m currently working on **Full Devolopment**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, javascript, MongoDB, SQL, CRM, Node js, Express, Angular, React, Bootstrap, Web Developement Java**
+- 💬 Ask me about **HTML, CSS, javascript, MongoDB, SQL, Salesforce CRM, Node js, Express, Angular, React, Bootstrap, Web Developement, Java**
 
 - 📫 How to reach me **nitishmani111@gmail.com**
 
